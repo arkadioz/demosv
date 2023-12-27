@@ -4,7 +4,7 @@ inputs:
   person:
     description: 'The person to greet'
     required: true
-    default: Goffy
+    default: 'Goffy'
 runs:
   using: node20
   main: index.js
