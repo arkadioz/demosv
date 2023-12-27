@@ -1,0 +1,5 @@
+name: DAVV ACTIONS DEMO
+description: This action greets persons
+runs:
+  using: node20
+  main: index.js
