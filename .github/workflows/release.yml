@@ -17,6 +17,7 @@ jobs:
         with:
           node-version: 20
       - name: Release
+        working-directory: ./.release
         run: |
           npm install
           npx semantic-release
