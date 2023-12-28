@@ -23,6 +23,6 @@ jobs:
       - name: Release
         #working-directory: ./.release
         run: |
-          npx semantic-release
+          npx semantic-release --branches main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
