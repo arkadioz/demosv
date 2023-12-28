@@ -14,4 +14,4 @@ jobs:
       - uses: ./
       - uses: ./
         with:
-          person: 'Remy'
+          person: 'Remyy'
