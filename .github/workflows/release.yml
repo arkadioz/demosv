@@ -1,6 +1,7 @@
 name: Release
 on:
   workflow_dispatch:
+
 jobs:
   release:
     name: Release
@@ -12,13 +13,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Node.js
+      - name: Setup node js
         uses: actions/setup-node@v3
         with:
           node-version: 20
       - name: Release
+        #working-directory: ./.release
         run: |
-          npm install
-          npx semantic-release
+          npx semantic-release --branches main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
