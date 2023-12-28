@@ -21,5 +21,11 @@ jobs:
         #working-directory: ./.release
         run: |
           npx semantic-release --branches main
+        with:
+          extra_plugins: |
+            @semantic-release/commit-analyzer
+            @semantic-release/release-notes-generator
+            @semantic-release/git
+            @semantic-release/github
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
