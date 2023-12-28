@@ -1,31 +1,40 @@
 name: Release
 on:
-  workflow_dispatch:
-
+  push:
+    branches:
+      - develop
+      - main
 jobs:
   release:
     name: Release
-    permissions:
-      contents: write
-      issues: write
-      pull-requests: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup node js
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 20
-      - name: Release
-        #working-directory: ./.release
+      - name: Install jq yq
         run: |
-          npx semantic-release --branches main
-        with:
-          extra_plugins: |
-            @semantic-release/commit-analyzer
-            @semantic-release/release-notes-generator
-            @semantic-release/git
-            @semantic-release/github
+          sudo wget https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64 -O /usr/bin/jq &&\
+          sudo chmod +x /usr/bin/jq
+          sudo pip install yq
+          jq --version
+          yq --version
+      - name: Install gitmoji-semver
+        run: |
+          git clone https://github.com/nkmr-jp/gitmoji-semver -b v2.0.5
+      - name: Generate semantic-release configs
+        working-directory: ./gitmoji-semver
+        run: |
+          make scaffold F=./.semver.yml O=..
+      - name: Release
+        working-directory: ./.release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm install
+          npx semantic-release
