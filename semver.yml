@@ -1,6 +1,6 @@
 # .semver.yml
 
-# Release Branches
+# Release Branches.
 branches: [ main ]
 
 # gitmoji semver settings
