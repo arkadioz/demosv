@@ -1,13 +1,15 @@
 # .semver.yml
 
 # Release Branches
-branches: [ develop, main ]
+branches: [ main ]
 
 # gitmoji semver settings
 # You can override the default values to suit your project.
 semver:
-  #  minor:
-  #    - lipstick
+    major:
+      - bug
+    minor:
+      - lipstick
     patch:
       - art
   #  none: # gitmoji.json "semver": null is convert to none
