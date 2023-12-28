@@ -19,7 +19,6 @@ jobs:
       - name: Release
         #working-directory: ./.release
         run: |
-          rm -rf node_modules package-lock.json
           npm install
           npx semantic-release
         env:
