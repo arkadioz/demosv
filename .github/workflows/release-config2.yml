@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - develop
 
 jobs:
   semantic_release:
@@ -21,3 +22,4 @@ jobs:
         env:
           CI_COMMIT_BRANCH: ${{ github.ref }}
           CI_COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
