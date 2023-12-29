@@ -14,6 +14,14 @@
       }
     ],
     [
+      "@semantic-release/git",
+      {
+        "assets": [
+          "CHANGELOG.md"
+        ]
+      }
+    ],
+    [
       "@semantic-release/exec",
       {
         "prepareCmd": "mvn versions:set -DnewVersion=${nextRelease.version} && mvn versions:commit"
