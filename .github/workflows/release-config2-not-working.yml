@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  workflow_dispatch:
+    branches:
+      - develop
+      - main
+
+jobs:
+  semantic_release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup Java
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'adopt'
+          java-version: '11'
+      - name: Semantic release
+        run: npx semantic-release --branches main
+        env:
+          CI_COMMIT_BRANCH: ${{ github.ref }}
+          CI_COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

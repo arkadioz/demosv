@@ -1,10 +1,9 @@
-name: CI
+name: CI CONFIG 3
 
 on:
   push:
     branches:
       - main
-      - develop
 
 jobs:
   semantic_release:
@@ -17,9 +16,9 @@ jobs:
         with:
           distribution: 'adopt'
           java-version: '11'
+      - name: Install semantic-release
+        run: npm install semantic-release @semantic-release/git @semantic-release/changelog @semantic-release/exec
       - name: Semantic release
-        run: npx semantic-release --branches main
         env:
-          CI_COMMIT_BRANCH: ${{ github.ref }}
-          CI_COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx semantic-release
