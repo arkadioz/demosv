@@ -18,7 +18,7 @@ jobs:
           distribution: 'adopt'
           java-version: '11'
       - name: Semantic release
-        run: npx semantic-release
+        run: npx semantic-release --branches main
         env:
           CI_COMMIT_BRANCH: ${{ github.ref }}
           CI_COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
