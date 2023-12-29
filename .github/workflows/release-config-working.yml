@@ -1,7 +1,7 @@
-name: CI CONFIG 3
+name: WORKING CI CONFIG 1
 
 on:
-  push:
+  workflow_dispatch: # here was push
     branches:
       - main
 
