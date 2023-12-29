@@ -17,14 +17,15 @@
       "@semantic-release/git",
       {
         "assets": [
-          "CHANGELOG.md"
+          "CHANGELOG.md",
+          "pom.xml"
         ]
       }
     ],
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "mvn versions:set -DnewVersion=${nextRelease.version} && mvn versions:commit"
+        "prepareCmd": "mvn versions:set -DnewVersion=${nextRelease.version} && echo \"NEXT_VERSION=${nextRelease.version}\""
       }
     ]
   ]
