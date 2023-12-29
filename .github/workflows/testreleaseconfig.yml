@@ -16,6 +16,8 @@ jobs:
         with:
           distribution: 'adopt'
           java-version: '11'
+      - name: Install semantic-release
+        run: npm install semantic-release @semantic-release/git @semantic-release/changelog @semantic-release/exec
       - name: Semantic release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
