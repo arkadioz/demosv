@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.3.2](https://github.com/arkadioz/demosv/compare/v2.3.1...v2.3.2) (2023-12-31)
+
+
+### Bug Fixes
+
+* try to make both things happen ([33bb012](https://github.com/arkadioz/demosv/commit/33bb0122ffb9f2dd1701f467ed8d91f97637115f))
+
 ## [2.2.4](https://github.com/arkadioz/demosv/compare/v2.2.3...v2.2.4) (2023-12-31)
 
 
