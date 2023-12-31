@@ -17,18 +17,10 @@
       }
     ],
     [
-      "@semantic-release/changelog",
-      {
-        "changelogFile": "CHANGELOG.md",
-        "changelogTitle": "# Semantic Versioning Changelog"
-      }
-    ],
-    [
       "@semantic-release/git",
       {
         "assets": [
-          "pom.xml",
-          "CHANGELOG.md"
+          "pom.xml"
         ],
         "message": "chore(release): bump ${nextRelease.version}"
       }
