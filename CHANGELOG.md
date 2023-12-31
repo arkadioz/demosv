@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.2.2](https://github.com/arkadioz/demosv/compare/v2.2.1...v2.2.2) (2023-12-29)
+
+
+### Bug Fixes
+
+* make the config run on workflow dispatch ([d9612b9](https://github.com/arkadioz/demosv/commit/d9612b94ef811af952f6acf71e337b5db71c271a))
+
 ## [2.2.1](https://github.com/arkadioz/demosv/compare/v2.2.0...v2.2.1) (2023-12-29)
 
 
