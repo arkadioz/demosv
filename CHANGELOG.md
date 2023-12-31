@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.2.3](https://github.com/arkadioz/demosv/compare/v2.2.2...v2.2.3) (2023-12-31)
+
+
+### Bug Fixes
+
+* try to make the pom be autoupdated ([7e8fc89](https://github.com/arkadioz/demosv/commit/7e8fc89c3975edbdf5f4dc951c4a0b0fee81170e))
+
 ## [2.2.2](https://github.com/arkadioz/demosv/compare/v2.2.1...v2.2.2) (2023-12-29)
 
 
