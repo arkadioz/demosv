@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.2.4](https://github.com/arkadioz/demosv/compare/v2.2.3...v2.2.4) (2023-12-31)
+
+
+### Bug Fixes
+
+* remove build env to see the msg again ([0730454](https://github.com/arkadioz/demosv/commit/073045465bd6c2823d44a7f43e23ed8b7f61f4a4))
+
 ## [2.2.3](https://github.com/arkadioz/demosv/compare/v2.2.2...v2.2.3) (2023-12-31)
 
 
