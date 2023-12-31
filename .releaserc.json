@@ -25,7 +25,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "mvn versions:set -DnewVersion=${nextRelease.version} && echo \"NEXT_VERSION=${nextRelease.version}\" >> build.env"
+        "prepareCmd": "mvn versions:set -DnewVersion=${nextRelease.version} && echo \"NEXT_VERSION=${nextRelease.version}\""
       }
     ]
   ]
