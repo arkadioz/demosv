@@ -15,7 +15,8 @@
       "@semantic-release/changelog",
       {
         "changelogFile": "CHANGELOG.md",
-        "changelogTitle": "# Semantic Versioning Changelog"
+        "changelogTitle": "# Semantic Versioning Changelog",
+        "message": "chore: update changelog"
       }
     ],
     [
