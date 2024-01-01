@@ -9,14 +9,6 @@
       }
     ],
     [
-      "@semantic-release/github",
-      {
-        "assets": [
-          "pom.xml"
-        ]
-      }
-    ],
-    [
       "@semantic-release/changelog",
       {
         "changelogFile": "CHANGELOG.md",
