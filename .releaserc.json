@@ -30,7 +30,7 @@
           "pom.xml",
           "CHANGELOG.md"
         ],
-        "message": "chore(release): bump ${nextRelease.version}"
+        "message": "chore(release): ${nextRelease.version}"
       }
     ]
   ],
