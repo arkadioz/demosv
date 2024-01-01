@@ -12,6 +12,6 @@ public class HelloWorldControllerTest {
     @Test
     void helloTest() {
         HelloWorldController controller = new HelloWorldController();
-        assertEquals("Hello there!", controller.hello().getBody());
+        assertEquals("Hello there!!", controller.hello().getBody());
     }
 }
