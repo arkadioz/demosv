@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+## [2.4.1](https://github.com/arkadioz/demosv/compare/v2.4.0...v2.4.1) (2024-01-01)
+
+
+### Bug Fixes
+
+* try to make the child pom update ([cfab0b7](https://github.com/arkadioz/demosv/commit/cfab0b74f331af3dbaa40eb364380790416f12ae))
+* try to update children pom ([b3eefa2](https://github.com/arkadioz/demosv/commit/b3eefa274746a9129fb23d27cd9e0028f03ba7b1))
+
 # [2.4.0](https://github.com/arkadioz/demosv/compare/v2.3.12...v2.4.0) (2024-01-01)
 
 
