@@ -1,5 +1,20 @@
 # Semantic Versioning Changelog
 
+# [3.0.0](https://github.com/arkadioz/demosv/compare/v2.5.0...v3.0.0) (2024-01-01)
+
+
+* feat!: this is a change ([43203fb](https://github.com/arkadioz/demosv/commit/43203fbceb808d4e490230d3e726e608b05713e6))
+
+
+### Features
+
+* add new feature ([b86e55a](https://github.com/arkadioz/demosv/commit/b86e55ad28229cbcfeb7c424ccd6d38bd118a94f))
+
+
+### BREAKING CHANGES
+
+* new features
+
 # [2.5.0](https://github.com/arkadioz/demosv/compare/v2.4.1...v2.5.0) (2024-01-01)
 
 
