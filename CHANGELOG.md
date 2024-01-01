@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.3.11](https://github.com/arkadioz/demosv/compare/v2.3.10...v2.3.11) (2024-01-01)
+
+
+### Bug Fixes
+
+* try to use both ways but the verify only for printing ([65cb330](https://github.com/arkadioz/demosv/commit/65cb3309feecda59869fa8d63e05426b4f9d9585))
+
 ## [2.3.10](https://github.com/arkadioz/demosv/compare/v2.3.9...v2.3.10) (2024-01-01)
 
 
