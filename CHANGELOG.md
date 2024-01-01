@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.5.0](https://github.com/arkadioz/demosv/compare/v2.4.1...v2.5.0) (2024-01-01)
+
+
+### Features
+
+* BREAKING CHANGE added testing with junir ([02be4cf](https://github.com/arkadioz/demosv/commit/02be4cfe5a7c10363fe62dcc9f0a0e7e82f357bc))
+
 ## [2.4.1](https://github.com/arkadioz/demosv/compare/v2.4.0...v2.4.1) (2024-01-01)
 
 
