@@ -8,8 +8,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "mvn versions:set -DnewVersion=\"${nextRelease.version}\" && echo \"NEXT_VERSION=${nextRelease.version}\" >> build.env",
-        "verifyReleaseCmd": "echo \",NEXT_VERSION=${nextRelease.version}\""
+        "prepareCmd": "mvn versions:set -DnewVersion=\"${nextRelease.version}\" && echo \"NEXT_VERSION=${nextRelease.version}, verifyReleaseCmd can also be used instead of prepareCmd\" >> build.env"
       }
     ],
     [
