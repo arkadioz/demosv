@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.3.9](https://github.com/arkadioz/demosv/compare/v2.3.8...v2.3.9) (2024-01-01)
+
+
+### Bug Fixes
+
+* add pom to files ([4896891](https://github.com/arkadioz/demosv/commit/489689188a7696ee46eefc14a45d0e4fed74fca4))
+
 ## [2.3.8](https://github.com/arkadioz/demosv/compare/v2.3.7...v2.3.8) (2024-01-01)
 
 
