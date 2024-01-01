@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.3.10](https://github.com/arkadioz/demosv/compare/v2.3.9...v2.3.10) (2024-01-01)
+
+
+### Bug Fixes
+
+* try to run with prepareCmd ([d50ca6a](https://github.com/arkadioz/demosv/commit/d50ca6ab3e49b2b11b5969900c5c512566fe4862))
+
 ## [2.3.9](https://github.com/arkadioz/demosv/compare/v2.3.8...v2.3.9) (2024-01-01)
 
 
