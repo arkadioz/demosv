@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.3.12](https://github.com/arkadioz/demosv/compare/v2.3.11...v2.3.12) (2024-01-01)
+
+
+### Bug Fixes
+
+* we leave a comment to know tat we can use both ways for the cmd part ([8b3f224](https://github.com/arkadioz/demosv/commit/8b3f2244b8df3dd2e41f048f13903e0868c38f64))
+
 ## [2.3.11](https://github.com/arkadioz/demosv/compare/v2.3.10...v2.3.11) (2024-01-01)
 
 
