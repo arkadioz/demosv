@@ -23,6 +23,7 @@
       {
         "assets": [
           "pom.xml",
+          "service/pom.xml",
           "CHANGELOG.md"
         ],
         "message": "chore(release): ${nextRelease.version}"
