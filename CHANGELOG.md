@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.4.0](https://github.com/arkadioz/demosv/compare/v2.3.12...v2.4.0) (2024-01-01)
+
+
+### Features
+
+* add submodule ([673b3ff](https://github.com/arkadioz/demosv/commit/673b3ffec83492d225041ec14014a1b433663b5a))
+
 ## [2.3.12](https://github.com/arkadioz/demosv/compare/v2.3.11...v2.3.12) (2024-01-01)
 
 
