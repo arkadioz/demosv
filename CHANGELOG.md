@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.3.5](https://github.com/arkadioz/demosv/compare/v2.3.4...v2.3.5) (2024-01-01)
+
+
+### Bug Fixes
+
+* put github plugin at the begining ([a6234b8](https://github.com/arkadioz/demosv/commit/a6234b899ece8447d0e153008f4ce2aea4f45b68))
+
 ## [2.3.4](https://github.com/arkadioz/demosv/compare/v2.3.3...v2.3.4) (2024-01-01)
 
 
