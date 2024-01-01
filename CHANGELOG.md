@@ -1,5 +1,15 @@
 # Semantic Versioning Changelog
 
+# [4.0.0](https://github.com/arkadioz/demosv/compare/v3.0.0...v4.0.0) (2024-01-01)
+
+
+* feat!: update steps versions ([52a361e](https://github.com/arkadioz/demosv/commit/52a361edde1dbb89727e9c18342f83fd8f875725))
+
+
+### BREAKING CHANGES
+
+* updated steps versions
+
 # [3.0.0](https://github.com/arkadioz/demosv/compare/v2.5.0...v3.0.0) (2024-01-01)
 
 
