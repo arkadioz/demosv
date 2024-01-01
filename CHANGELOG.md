@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.3.6](https://github.com/arkadioz/demosv/compare/v2.3.5...v2.3.6) (2024-01-01)
+
+
+### Bug Fixes
+
+* message for changelog ([5869af5](https://github.com/arkadioz/demosv/commit/5869af5528f1cc6bbe9d43add0235e91354a2572))
+
 ## [2.3.5](https://github.com/arkadioz/demosv/compare/v2.3.4...v2.3.5) (2024-01-01)
 
 
