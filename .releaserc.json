@@ -22,6 +22,7 @@
       "@semantic-release/git",
       {
         "assets": [
+          "pom.xml",
           "CHANGELOG.md"
         ],
         "message": "chore(release): ${nextRelease.version}"
