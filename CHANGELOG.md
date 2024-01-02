@@ -1,5 +1,21 @@
 # Semantic Versioning Changelog
 
+## [14.0.0](https://github.com/arkadioz/demosv/compare/v13.0.0...v14.0.0) (2024-01-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* we made progress
+
+### New Feature(s) 🚀
+
+* we made progress ([261bc36](https://github.com/arkadioz/demosv/commit/261bc36f627fec7d0ef64e7ab05c88a273d26774))
+
+
+### Code Refactor 💅
+
+* lets leave it in a working config ([10bb7de](https://github.com/arkadioz/demosv/commit/10bb7deba14d0dfc3b795c4aa52afb0afdefc1df))
+
 ## [13.0.0](https://github.com/arkadioz/demosv/compare/v12.0.0...v13.0.0) (2024-01-02)
 
 
