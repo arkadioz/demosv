@@ -13,6 +13,11 @@
         "presetConfig": {
           "types": [
             {
+              "breaking": true,
+              "type": "feat!",
+              "section": "BREAKING"
+            },
+            {
               "type": "feat",
               "section": "New Feature(s) 🚀"
             },
