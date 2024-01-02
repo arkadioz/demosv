@@ -1,5 +1,14 @@
 # Semantic Versioning Changelog
 
+## [13.0.0](https://github.com/arkadioz/demosv/compare/v12.0.0...v13.0.0) (2024-01-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* try another way againnnn
+
+* feat!: try another way againnnn ([1f9a05b](https://github.com/arkadioz/demosv/commit/1f9a05b160fa961e36e41eafbb4afd90a497bcac))
+
 ## [12.0.0](https://github.com/arkadioz/demosv/compare/v11.0.0...v12.0.0) (2024-01-02)
 
 
