@@ -1,5 +1,14 @@
 # Semantic Versioning Changelog
 
+## [12.0.0](https://github.com/arkadioz/demosv/compare/v11.0.0...v12.0.0) (2024-01-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* try another way again hehehe
+
+* feat!: try another way again hehehe ([652c157](https://github.com/arkadioz/demosv/commit/652c1577cd0bff0934d14eb76241976fca79f305))
+
 ## [11.0.0](https://github.com/arkadioz/demosv/compare/v10.0.0...v11.0.0) (2024-01-02)
 
 
