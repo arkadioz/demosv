@@ -1,5 +1,16 @@
 # Semantic Versioning Changelog
 
+## [7.0.0](https://github.com/arkadioz/demosv/compare/v6.0.0...v7.0.0) (2024-01-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* try another preset
+
+### New Feature(s)
+
+* try another preset ([fbb69b9](https://github.com/arkadioz/demosv/commit/fbb69b977d551f8105c1be82d0b2bdd722183140))
+
 # [6.0.0](https://github.com/arkadioz/demosv/compare/v5.0.0...v6.0.0) (2024-01-02)
 
 
