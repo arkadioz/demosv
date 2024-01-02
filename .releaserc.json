@@ -3,11 +3,7 @@
     [
       "@semantic-release/commit-analyzer",
       {
-        "preset": "conventionalCommits",
-        "releaseRules": [],
-        "parserOpts": {
-          "noteKeywords": []
-        }
+        "preset": "conventionalcommits"
       }
     ],
     "@semantic-release/release-notes-generator",
