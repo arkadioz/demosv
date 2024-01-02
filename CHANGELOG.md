@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [6.0.0](https://github.com/arkadioz/demosv/compare/v5.0.0...v6.0.0) (2024-01-02)
+
+
+### Bug Fixes
+
+* revert because it stopped running ([2ebeba3](https://github.com/arkadioz/demosv/commit/2ebeba3172ed8b12a958213d8fd3ce39f0d64bd5))
+
 # [5.0.0](https://github.com/arkadioz/demosv/compare/v4.1.1...v5.0.0) (2024-01-02)
 
 ## [4.1.1](https://github.com/arkadioz/demosv/compare/v4.1.0...v4.1.1) (2024-01-02)
