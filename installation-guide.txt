@@ -2,3 +2,4 @@ This is the installation guide
 
 1) Download the project
 2) Run mvn build
+3) Run the jar
