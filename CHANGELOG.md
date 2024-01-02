@@ -1,5 +1,16 @@
 # Semantic Versioning Changelog
 
+## [16.0.0](https://github.com/arkadioz/demosv/compare/v15.0.2...v16.0.0) (2024-01-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is another test
+
+### Refactoring 🛠
+
+* this is another test ([a6d9a88](https://github.com/arkadioz/demosv/commit/a6d9a88caca042afc6c38b48daec3784e9b59764))
+
 ## [15.0.2](https://github.com/arkadioz/demosv/compare/v15.0.1...v15.0.2) (2024-01-02)
 
 
