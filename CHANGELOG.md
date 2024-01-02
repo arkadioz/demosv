@@ -1,5 +1,16 @@
 # Semantic Versioning Changelog
 
+## [11.0.0](https://github.com/arkadioz/demosv/compare/v10.0.0...v11.0.0) (2024-01-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* try another way again hehe
+
+### New Feature(s) 🚀
+
+* try another way again hehe ([e882a3e](https://github.com/arkadioz/demosv/commit/e882a3e7fb0f5e5147e688e1f4ffb332e7de6eb7))
+
 ## [10.0.0](https://github.com/arkadioz/demosv/compare/v9.0.0...v10.0.0) (2024-01-02)
 
 
