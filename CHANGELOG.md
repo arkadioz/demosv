@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [4.1.0](https://github.com/arkadioz/demosv/compare/v4.0.3...v4.1.0) (2024-01-02)
+
+
+### Features
+
+* wanna do a major ([b783172](https://github.com/arkadioz/demosv/commit/b7831722c4a77aa428ed92d0012a34fe51bcae47))
+
 ## [4.0.3](https://github.com/arkadioz/demosv/compare/v4.0.2...v4.0.3) (2024-01-02)
 
 
