@@ -10,7 +10,7 @@
             "release": "major"
           },
           {
-            "type": "refactoring",
+            "type": "refactor",
             "release": "patch"
           }
         ]
@@ -51,7 +51,7 @@
               "section": "Build system 🛠️"
             },
             {
-              "type": "refactoring",
+              "type": "refactor",
               "section": "Refactoring \uD83D\uDEE0"
             }
           ]
