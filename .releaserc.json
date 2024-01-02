@@ -13,8 +13,7 @@
         "presetConfig": {
           "types": [
             {
-              "breaking": true,
-              "type": "feat!",
+              "type": "breaking",
               "section": "BREAKING"
             },
             {
