@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [4.1.1](https://github.com/arkadioz/demosv/compare/v4.1.0...v4.1.1) (2024-01-02)
+
+
+### Bug Fixes
+
+* just leave it as it was but as an array at the commit analyzer plugin ([332eba3](https://github.com/arkadioz/demosv/commit/332eba3cddb7a357d850936799503575ad67926a))
+
 # [4.1.0](https://github.com/arkadioz/demosv/compare/v4.0.3...v4.1.0) (2024-01-02)
 
 
