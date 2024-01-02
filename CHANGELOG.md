@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [4.0.3](https://github.com/arkadioz/demosv/compare/v4.0.2...v4.0.3) (2024-01-02)
+
+
+### Performance Improvements
+
+* it is ignoring the rules ([8b72495](https://github.com/arkadioz/demosv/commit/8b72495ac97a2348116f906405a3a63ad3cbd0c9))
+
 ## [4.0.2](https://github.com/arkadioz/demosv/compare/v4.0.1...v4.0.2) (2024-01-02)
 
 
