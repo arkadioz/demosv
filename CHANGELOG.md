@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [16.0.1](https://github.com/arkadioz/demosv/compare/v16.0.0...v16.0.1) (2024-01-02)
+
+
+### Code Refactor 💅
+
+* add a command to the installation guide and also refactor config ([d89db21](https://github.com/arkadioz/demosv/commit/d89db213e56b6a584ea32d51be3c9e71794d146d))
+
 ## [16.0.0](https://github.com/arkadioz/demosv/compare/v15.0.2...v16.0.0) (2024-01-02)
 
 
