@@ -1,5 +1,16 @@
 # Semantic Versioning Changelog
 
+## [10.0.0](https://github.com/arkadioz/demosv/compare/v9.0.0...v10.0.0) (2024-01-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* try another way for the breaking section
+
+### New Feature(s) 🚀
+
+* try another way for the breaking section ([fa1fcbd](https://github.com/arkadioz/demosv/commit/fa1fcbd42042cf4cc3797296767984cd5239d1cd))
+
 ## [9.0.0](https://github.com/arkadioz/demosv/compare/v8.0.0...v9.0.0) (2024-01-02)
 
 
