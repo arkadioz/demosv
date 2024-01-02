@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+## [15.0.0](https://github.com/arkadioz/demosv/compare/v14.0.0...v15.0.0) (2024-01-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* added the downloading and mvn build steps to the installation guide
+
+### Documentation Changes 📝
+
+* added the downloading and mvn build steps to the installation guide ([2a0aa2a](https://github.com/arkadioz/demosv/commit/2a0aa2a2b0c7eaa275492c9509b66c5ac59b6622))
+* added the installation steps ([da676ff](https://github.com/arkadioz/demosv/commit/da676ffd97d1d5b81ece676c21b5f957340654b2))
+
 ## [14.0.0](https://github.com/arkadioz/demosv/compare/v13.0.0...v14.0.0) (2024-01-02)
 
 
