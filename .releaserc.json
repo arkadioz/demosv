@@ -47,18 +47,6 @@
             {
               "type": "build",
               "section": "Build system 🛠️"
-            },
-            {
-              "type": "BREAKING CHANGES",
-              "section": "Breaking Changes \uD83D\uDCA5"
-            },
-            {
-              "type": "BREAKING CHANGE",
-              "section": "Breaking Changes \uD83D\uDCA5"
-            },
-            {
-              "type": "BREAKING",
-              "section": "Breaking Changes \uD83D\uDCA5"
             }
           ],
           "breaking": {
