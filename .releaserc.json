@@ -23,8 +23,9 @@
             "type": "^(\\w+)(\\!)?$"
           },
           {
+            "breaking": true,
             "type": "feat",
-            "release": "minor"
+            "release": "major"
           },
           {
             "type": "fix",
