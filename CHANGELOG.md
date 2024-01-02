@@ -1,5 +1,21 @@
 # Semantic Versioning Changelog
 
+## [8.0.0](https://github.com/arkadioz/demosv/compare/v7.0.0...v8.0.0) (2024-01-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is a test
+
+### New Feature(s) 🚀
+
+* this is a test ([b2ec950](https://github.com/arkadioz/demosv/commit/b2ec950044224219b93451ceb0a68dd41cda0199))
+
+
+### Bug Fix(es) 🐛️
+
+* just adding some emotes ([7576637](https://github.com/arkadioz/demosv/commit/7576637f2d5ae1ff9936002035410a4e692dbadb))
+
 ## [7.0.0](https://github.com/arkadioz/demosv/compare/v6.0.0...v7.0.0) (2024-01-02)
 
 
