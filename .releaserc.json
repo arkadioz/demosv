@@ -13,10 +13,6 @@
         "presetConfig": {
           "types": [
             {
-              "type": "breaking",
-              "section": "BREAKING"
-            },
-            {
               "type": "feat",
               "section": "New Feature(s) 🚀"
             },
@@ -44,7 +40,10 @@
               "type": "build",
               "section": "Build system 🛠️"
             }
-          ]
+          ],
+          "breaking": {
+            "section": "Breaking Changes 💥"
+          }
         }
       }
     ],
