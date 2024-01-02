@@ -30,6 +30,25 @@
       }
     ]
   ],
+  "releaseRules": [
+    {
+      "breaking": true,
+      "release": "major",
+      "type": "^(\\w+)(\\!)?$"
+    },
+    {
+      "type": "feat",
+      "release": "minor"
+    },
+    {
+      "type": "fix",
+      "release": "patch"
+    },
+    {
+      "type": "perf",
+      "release": "patch"
+    }
+  ],
   "branches": [
     "main"
   ]
