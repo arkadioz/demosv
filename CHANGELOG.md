@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [15.0.2](https://github.com/arkadioz/demosv/compare/v15.0.1...v15.0.2) (2024-01-02)
+
+
+### Refactoring 🛠
+
+* added the section ([df1adff](https://github.com/arkadioz/demosv/commit/df1adfff4b256b708f75528e22405edd5163a0a9))
+
 ## [15.0.1](https://github.com/arkadioz/demosv/compare/v15.0.0...v15.0.1) (2024-01-02)
 
 ## [15.0.0](https://github.com/arkadioz/demosv/compare/v14.0.0...v15.0.0) (2024-01-02)
