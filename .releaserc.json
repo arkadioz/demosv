@@ -13,37 +13,32 @@
         "presetConfig": {
           "types": [
             {
-              "breaking": true,
-              "type": "feat!",
-              "section": "BREAKING"
-            },
-            {
               "type": "feat",
-              "section": "New Feature(s)"
+              "section": "New Feature(s) 🚀"
             },
             {
               "type": "fix",
-              "section": "Bug Fix(es)"
+              "section": "Bug Fix(es) 🐛️"
             },
             {
               "type": "docs",
-              "section": "Documentation Changes"
+              "section": "Documentation Changes 📝"
             },
             {
               "type": "refactor",
-              "section": "Code Refactoring"
+              "section": "Code Refactoring 💅"
             },
             {
               "type": "test",
-              "section": "Tests"
+              "section": "Tests 📡️"
             },
             {
               "type": "perf",
-              "section": "Performance Improvement(s)"
+              "section": "Performance Improvement(s) 🚄️"
             },
             {
               "type": "build",
-              "section": "Build system ️"
+              "section": "Build system 🛠️"
             }
           ]
         }
