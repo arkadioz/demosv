@@ -49,6 +49,10 @@
             {
               "type": "build",
               "section": "Build system 🛠️"
+            },
+            {
+              "type": "refactoring",
+              "section": "Refactoring \uD83D\uDEE0"
             }
           ]
         }
