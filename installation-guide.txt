@@ -5,3 +5,6 @@ This is the installation guide
 3) Run the jar
 
 Note: this command could be useful sometime: npx semantic-release --no-ci --debug
+
+Note: how to use env variables with github actions https://docs.github.com/en/actions/learn-github-actions/variables
+there are also github secrets: https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions
